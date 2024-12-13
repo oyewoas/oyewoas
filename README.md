@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayooluwa Oyewo  
 
-🚀 **Senior Software Engineer** with 8+ years of experience designing and building scalable, user-focused applications. I specialize in React, TypeScript, and Node.js, with expertise in developing Web3 platforms, SaaS solutions, and robust front-end frameworks.  
+🚀 **Software Engineer** with 8+ years of experience designing and building scalable, user-focused applications. I specialize in React, TypeScript, and Node.js, with expertise in developing Web3 platforms, SaaS solutions, and robust front-end frameworks.  
 
 ---
 
