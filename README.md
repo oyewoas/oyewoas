@@ -20,6 +20,12 @@
 - **Collaborative Leadership**: Worked with startups and cross-functional teams to deliver innovative products under tight deadlines.  
 
 
+## 🌱 What I'm Learning  
+
+- **Blockchain Development**: Exploring advanced principles of blockchain technology and smart contract development.  
+- **Mobile Development**: Enhancing my skills in building performant mobile applications using React Native.  
+
+
 ## 🎓 Certifications  
 
 - **Cloud DevOps Engineer** | Udacity  
