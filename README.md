@@ -2,7 +2,6 @@
 
 🚀 **Software Engineer** with 8+ years of experience designing and building scalable, user-focused applications. I specialize in React, TypeScript, and Node.js, with expertise in developing Web3 platforms, SaaS solutions, and robust front-end frameworks.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -11,7 +10,6 @@
 - **Testing**: Jest, Playwright, React Testing Library, Cypress  
 - **DevOps**: GitHub Actions, CircleCI, AWS Deployment, Docker
 
----
 
 ## 🌟 Highlights  
 
@@ -21,14 +19,12 @@
 - **Performance Optimization**: Delivered fast, responsive, and interactive user experiences for enterprise-grade products.  
 - **Collaborative Leadership**: Worked with startups and cross-functional teams to deliver innovative products under tight deadlines.  
 
----
 
 ## 🎓 Certifications  
 
 - **Cloud DevOps Engineer** | Udacity  
 - **Expert JavaScript Developer** | Pluralsight  
 
----
 
 ## 💬 Let’s Connect!  
 
