@@ -6,10 +6,10 @@
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React, Next.js, Angular, TypeScript, Chakra UI, Material UI  
-- **Backend**: Node.js, Express.js, Prisma, Sequelize, PostgreSQL, MySQL, MongoDB  
+- **Frontend**: React, Next.js, Angular, TypeScript, Chakra UI, Material UI, Ant Design, Tailwind  
+- **Backend**: Node.js, Express.js, Prisma, Sequelize, PostgreSQL, MySQL, MongoDB, Mongoose 
 - **Testing**: Jest, Playwright, React Testing Library, Cypress  
-- **DevOps**: GitHub Actions, CircleCI, AWS Deployment  
+- **DevOps**: GitHub Actions, CircleCI, AWS Deployment, Docker
 
 ---
 
