@@ -23,7 +23,7 @@
 ## 🌱 What I'm Learning  
 
 - **Blockchain Development**: Exploring advanced principles of blockchain technology and smart contract development.  
-- **Mobile Development**: Enhancing my skills in building performant mobile applications using React Native.  
+- **Mobile Development**: Enhancing my skills in building performant mobile applications using Flutter & React Native.  
 
 
 ## 🎓 Certifications  
