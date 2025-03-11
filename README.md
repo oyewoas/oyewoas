@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayooluwa Oyewo  
 
-🚀 **Software Engineer** with 8+ years of experience designing and building scalable, user-focused applications. I specialize in React, TypeScript, and Node.js, with expertise in developing Web3 platforms, SaaS solutions, and robust front-end frameworks.  
+🚀 **Software Engineer** with 8+ years of experience designing and building scalable, user-focused applications. I specialize in React, TypeScript, and Node.js, with expertise in developing SaaS solutions, robust front-end frameworks, currently exploring development of AI and Web3 enabled platforms.  
 
 
 ## 🛠️ Tech Stack  
